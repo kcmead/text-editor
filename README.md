@@ -40,6 +40,18 @@ Given a text editor web application:
 
 ## Screenshots
 
+**Browser Version of the Application**
+  - ![browserVersion](/client/src/images/browserVersion.png)
+
+**Browser Alert to Install**
+  - ![AlertToInstall](/client/src/images/AlertToInstall.png)
+
+**Application Location Post-Install**
+  - ![appLocation](/client/src/images/appLocation.png)
+
+**Installed Version of the Application**
+  - ![installedApp](/client/src/images/installedApp.png)
+
 ## Author
 
-[Your Name]
+Kevin Mead
