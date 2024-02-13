@@ -44,7 +44,7 @@ export const getDb = async () => {
   const request = store.getAll();
   // Wait for the getAll operation to complete and log the result
   const result = await request;
-  console.log('🚀 - Data retrieved from the database.', result);
+  console.log('Data retrieved from the database.', result);
   return result.value;
 };
 
